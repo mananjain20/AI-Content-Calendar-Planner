@@ -1,7 +1,14 @@
 # 📅 AI Content Calendar Planner
+> 🌐 **Live Application:** [https://ai-content-calendar-planner.onrender.com](https://ai-content-calendar-planner.onrender.com)  
 > **Category:** Professional Productivity  
 > **Course / Assignment:** Major Project  
 > **Tech Stack:** React (Vite) + CSS | Node.js (Express) | Groq Cloud AI (`qwen/qwen3.8-27b`) | Persistent Local Storage
+
+---
+
+## 🌐 Live Deployment
+The application is deployed and publicly accessible on Render:  
+🔗 **[https://ai-content-calendar-planner.onrender.com](https://ai-content-calendar-planner.onrender.com)**
 
 ---
 
