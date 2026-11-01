@@ -1,0 +1,4075 @@
+[
+  {
+    "campaignId": "CMP-MVXGRDGH",
+    "id": "CMP-MVXGRDGH",
+    "createdAt": "2026-11-01T06:43:19.244Z",
+    "updatedAt": "2026-11-01T06:43:19.244Z",
+    "campaignParams": {
+      "campaignGoal": "Build hype, announce guest speakers, and boost ticket registrations for HackFest 2026",
+      "targetAudience": "Engineering students, campus clubs, and aspiring developers",
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ],
+      "durationDays": 7,
+      "postsPerDay": 1,
+      "tone": "Vibrant, community-driven, and high-energy",
+      "startDate": "2026-11-01"
+    },
+    "data": {
+      "campaignName": "HackFest 2026: Code The Future",
+      "campaignStrategy": "Build hype and drive ticket registrations for HackFest 2026 through high-energy speaker reveals and community-focused content.",
+      "targetAudienceSummary": "Engineering students, campus clubs, and aspiring developers",
+      "posts": [
+        {
+          "dayNumber": 1,
+          "platform": "Instagram",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Launch Announcement",
+          "caption": "HackFest 2026 is HERE! 🚀 24 hours. 100+ developers. One epic hackathon. Ready to code the future?",
+          "hashtags": [
+            "#HackFest2026",
+            "#DevCommunity",
+            "#TechEvent"
+          ],
+          "callToAction": "Register via link in bio!",
+          "visualConcept": "Dynamic glitch-effect logo reveal",
+          "scheduledDate": "2026-11-01"
+        },
+        {
+          "dayNumber": 2,
+          "platform": "LinkedIn",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Speaker Reveal: AI Lead",
+          "caption": "Meet Dr. Elena Rostova, AI Lead at NeuralCore. She’ll break down real-world LLM deployment at HackFest 2026. Don’t miss it.",
+          "hashtags": [
+            "#ArtificialIntelligence",
+            "#TechLeadership",
+            "#HackFest2026"
+          ],
+          "callToAction": "Secure your spot now.",
+          "visualConcept": "Professional headshot with event badge",
+          "scheduledDate": "2026-11-02"
+        },
+        {
+          "dayNumber": 3,
+          "platform": "Instagram",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Community Teaser",
+          "caption": "Who’s joining the hack? Tag your coding duo below! 👇 500+ devs already locked in. You in?",
+          "hashtags": [
+            "#HackathonLife",
+            "#CodingBuddy",
+            "#StudentDevs"
+          ],
+          "callToAction": "Tag your team now!",
+          "visualConcept": "Collage of diverse student developers",
+          "scheduledDate": "2026-11-03"
+        },
+        {
+          "dayNumber": 4,
+          "platform": "LinkedIn",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Speaker Reveal: Cloud Architect",
+          "caption": "Scaling to millions? Learn from Marcus Chen, Cloud Architect at ScaleUp. His session on microservices is a must-attend.",
+          "hashtags": [
+            "#CloudComputing",
+            "#SoftwareEngineering",
+            "#HackFest2026"
+          ],
+          "callToAction": "Join the conversation.",
+          "visualConcept": "Speaker on stage with code backdrop",
+          "scheduledDate": "2026-11-04"
+        },
+        {
+          "dayNumber": 5,
+          "platform": "Instagram",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Prize Drop",
+          "caption": "🏆 $50K in prizes! Hardware, internships, and cash. What will you build to win it all?",
+          "hashtags": [
+            "#PrizeDrop",
+            "#DevRewards",
+            "#HackFest2026"
+          ],
+          "callToAction": "Claim your ticket today!",
+          "visualConcept": "Animated prize stack with confetti",
+          "scheduledDate": "2026-11-05"
+        },
+        {
+          "dayNumber": 6,
+          "platform": "LinkedIn",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Why Attend",
+          "caption": "HackFest isn’t just code. It’s networking, mentorship, and career acceleration. Connect with 100+ tech leaders this November.",
+          "hashtags": [
+            "#CareerGrowth",
+            "#Networking",
+            "#TechCommunity"
+          ],
+          "callToAction": "Register before it’s full.",
+          "visualConcept": "Infographic of key event benefits",
+          "scheduledDate": "2026-11-06"
+        },
+        {
+          "dayNumber": 7,
+          "platform": "Instagram",
+          "contentPillar": "Milestone & Next Steps",
+          "topicIdea": "Day 7 Key Takeaways & Community Spotlight",
+          "caption": "Wrapping up Day 7 of our Build hype, announce guest speakers, and boost ticket registrations for HackFest 2026 initiative! What was your biggest breakthrough so far? Join the discussion below.",
+          "hashtags": [
+            "#DevGrowth",
+            "#TechCommunity",
+            "#CareerSprint"
+          ],
+          "callToAction": "Drop your thoughts in the comments!",
+          "visualConcept": "Milestone achievement celebration card",
+          "scheduledDate": "2026-11-07"
+        }
+      ]
+    },
+    "validation": {
+      "timestamp": "2026-11-01T06:43:19.244Z",
+      "totalPosts": 7,
+      "requestedDuration": 7,
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-07",
+      "durationCheckPassed": true,
+      "totalChecks": 43,
+      "passedChecks": 40,
+      "warningChecks": 3,
+      "failedChecks": 0,
+      "qualityScore": 97,
+      "status": "PASSED_HIGH_QUALITY",
+      "summary": {
+        "passedPostsCount": 4,
+        "warningPostsCount": 3,
+        "failedPostsCount": 0
+      },
+      "postAudits": [
+        {
+          "dayNumber": 1,
+          "platform": "Instagram",
+          "characterCount": 98,
+          "characterLimit": 2200,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "98 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 3-15)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Register via link in bio!\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-01 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Dynamic glitch-effect logo reveal\""
+            }
+          ],
+          "safeCaption": "HackFest 2026 is HERE! 🚀 24 hours. 100+ developers. One epic hackathon. Ready to code the future?"
+        },
+        {
+          "dayNumber": 2,
+          "platform": "LinkedIn",
+          "characterCount": 123,
+          "characterLimit": 3000,
+          "overallStatus": "WARNING",
+          "isCompliant": true,
+          "passedChecksCount": 5,
+          "warningChecksCount": 1,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "WARNING",
+              "passed": false,
+              "detail": "123 chars (Too brief for LinkedIn; recommend at least 150 chars)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Secure your spot now.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-02 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Professional headshot with event badge\""
+            }
+          ],
+          "safeCaption": "Meet Dr. Elena Rostova, AI Lead at NeuralCore. She’ll break down real-world LLM deployment at HackFest 2026. Don’t miss it."
+        },
+        {
+          "dayNumber": 3,
+          "platform": "Instagram",
+          "characterCount": 90,
+          "characterLimit": 2200,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "90 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 3-15)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Tag your team now!\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-03 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Collage of diverse student developers\""
+            }
+          ],
+          "safeCaption": "Who’s joining the hack? Tag your coding duo below! 👇 500+ devs already locked in. You in?"
+        },
+        {
+          "dayNumber": 4,
+          "platform": "LinkedIn",
+          "characterCount": 119,
+          "characterLimit": 3000,
+          "overallStatus": "WARNING",
+          "isCompliant": true,
+          "passedChecksCount": 5,
+          "warningChecksCount": 1,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "WARNING",
+              "passed": false,
+              "detail": "119 chars (Too brief for LinkedIn; recommend at least 150 chars)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Join the conversation.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-04 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Speaker on stage with code backdrop\""
+            }
+          ],
+          "safeCaption": "Scaling to millions? Learn from Marcus Chen, Cloud Architect at ScaleUp. His session on microservices is a must-attend."
+        },
+        {
+          "dayNumber": 5,
+          "platform": "Instagram",
+          "characterCount": 86,
+          "characterLimit": 2200,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "86 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 3-15)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Claim your ticket today!\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-05 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Animated prize stack with confetti\""
+            }
+          ],
+          "safeCaption": "🏆 $50K in prizes! Hardware, internships, and cash. What will you build to win it all?"
+        },
+        {
+          "dayNumber": 6,
+          "platform": "LinkedIn",
+          "characterCount": 125,
+          "characterLimit": 3000,
+          "overallStatus": "WARNING",
+          "isCompliant": true,
+          "passedChecksCount": 5,
+          "warningChecksCount": 1,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "WARNING",
+              "passed": false,
+              "detail": "125 chars (Too brief for LinkedIn; recommend at least 150 chars)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Register before it’s full.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-06 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Infographic of key event benefits\""
+            }
+          ],
+          "safeCaption": "HackFest isn’t just code. It’s networking, mentorship, and career acceleration. Connect with 100+ tech leaders this November."
+        },
+        {
+          "dayNumber": 7,
+          "platform": "Instagram",
+          "characterCount": 192,
+          "characterLimit": 2200,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "192 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 3-15)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Drop your thoughts in the comments!\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-07 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Milestone achievement celebration card\""
+            }
+          ],
+          "safeCaption": "Wrapping up Day 7 of our Build hype, announce guest speakers, and boost ticket registrations for HackFest 2026 initiative! What was your biggest breakthrough so far? Join the discussion below."
+        }
+      ]
+    }
+  },
+  {
+    "campaignId": "CMP-MVXGPPDP",
+    "id": "CMP-MVXGPPDP",
+    "createdAt": "2026-11-01T06:42:00.321Z",
+    "updatedAt": "2026-11-01T06:42:00.321Z",
+    "campaignParams": {
+      "campaignGoal": "Single Port Unified App Verification Campaign",
+      "targetAudience": "Fullstack Software Engineers and DevOps",
+      "platforms": [
+        "Twitter",
+        "LinkedIn"
+      ],
+      "durationDays": 2,
+      "postsPerDay": 1,
+      "tone": "Engaging & Professional",
+      "startDate": "2026-11-01"
+    },
+    "data": {
+      "campaignName": "Single Port Verification Launch",
+      "campaignStrategy": "Drive developer adoption by simplifying local development workflows through a unified single-port application verification system.",
+      "targetAudienceSummary": "Fullstack Software Engineers and DevOps",
+      "posts": [
+        {
+          "dayNumber": 1,
+          "platform": "Twitter",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Launch Announcement",
+          "caption": "Stop fighting port conflicts. One port, zero friction. Verify your fullstack app instantly. #DevOps #WebDev",
+          "hashtags": [
+            "#DevOps",
+            "#WebDev"
+          ],
+          "callToAction": "Try it now!",
+          "visualConcept": "Unified port terminal screenshot",
+          "scheduledDate": "2026-11-01"
+        },
+        {
+          "dayNumber": 2,
+          "platform": "LinkedIn",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Value Proposition",
+          "caption": "Streamline your local development environment. Our Single Port Unified App eliminates proxy complexity for fullstack engineers. Boost team velocity today. #SoftwareEngineering #DevTools",
+          "hashtags": [
+            "#SoftwareEngineering",
+            "#DevTools"
+          ],
+          "callToAction": "Learn more here.",
+          "visualConcept": "Architecture diagram flow",
+          "scheduledDate": "2026-11-02"
+        }
+      ]
+    },
+    "validation": {
+      "timestamp": "2026-11-01T06:42:00.321Z",
+      "totalPosts": 2,
+      "requestedDuration": 2,
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-02",
+      "durationCheckPassed": true,
+      "totalChecks": 13,
+      "passedChecks": 13,
+      "warningChecks": 0,
+      "failedChecks": 0,
+      "qualityScore": 100,
+      "status": "PASSED_HIGH_QUALITY",
+      "summary": {
+        "passedPostsCount": 2,
+        "warningPostsCount": 0,
+        "failedPostsCount": 0
+      },
+      "postAudits": [
+        {
+          "dayNumber": 1,
+          "platform": "Twitter/X",
+          "characterCount": 107,
+          "characterLimit": 280,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "107 / 280 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "2 tags (Target: 1-4)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Try it now!\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-01 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Unified port terminal screenshot\""
+            }
+          ],
+          "safeCaption": "Stop fighting port conflicts. One port, zero friction. Verify your fullstack app instantly. #DevOps #WebDev"
+        },
+        {
+          "dayNumber": 2,
+          "platform": "LinkedIn",
+          "characterCount": 185,
+          "characterLimit": 3000,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "185 / 3000 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "2 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Learn more here.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-02 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Architecture diagram flow\""
+            }
+          ],
+          "safeCaption": "Streamline your local development environment. Our Single Port Unified App eliminates proxy complexity for fullstack engineers. Boost team velocity today. #SoftwareEngineering #DevTools"
+        }
+      ]
+    }
+  },
+  {
+    "campaignId": "CMP-MVXDZ8PA",
+    "id": "CMP-MVXDZ8PA",
+    "createdAt": "2026-11-01T05:25:27.747Z",
+    "updatedAt": "2026-11-01T05:25:27.747Z",
+    "campaignParams": {
+      "campaignGoal": "Build hype, announce guest speakers, and boost ticket registrations for Summer Hacks 2026",
+      "targetAudience": "Engineering students, campus clubs, and aspiring developers",
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ],
+      "durationDays": 7,
+      "postsPerDay": 1,
+      "tone": "Vibrant, community-driven, and high-energy",
+      "startDate": "2026-11-09"
+    },
+    "data": {
+      "campaignName": "Summer Hacks 2026: Ignite Your Code",
+      "campaignStrategy": "Build community momentum and drive ticket sales through high-energy speaker reveals and exclusive dev tips.",
+      "targetAudienceSummary": "Engineering students, campus clubs, and aspiring developers",
+      "posts": [
+        {
+          "dayNumber": 1,
+          "platform": "Instagram",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Official Launch",
+          "caption": "Summer Hacks 2026 is officially live! 🚀 Join 500+ devs for 24h of building, networking, and winning. Your next big break starts here.",
+          "hashtags": [
+            "#SummerHacks2026",
+            "#DevLife",
+            "#Hackathon"
+          ],
+          "callToAction": "Register via link in bio!",
+          "visualConcept": "Vibrant neon hackathon countdown graphic",
+          "scheduledDate": "2026-11-09"
+        },
+        {
+          "dayNumber": 2,
+          "platform": "LinkedIn",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Speaker Teaser",
+          "caption": "We are thrilled to announce our first guest speaker! A top-tier engineering leader who will share insights on scaling code. Who else is ready to learn?",
+          "hashtags": [
+            "#TechLeadership",
+            "#Engineering",
+            "#SummerHacks2026"
+          ],
+          "callToAction": "Secure your spot now.",
+          "visualConcept": "Professional headshot with event logo",
+          "scheduledDate": "2026-11-10"
+        },
+        {
+          "dayNumber": 3,
+          "platform": "Instagram",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Community Spotlight",
+          "caption": "From campus clubs to global teams, we are building together. 🌍 Tag your hackathon squad and show us your energy. Let’s make this year unforgettable!",
+          "hashtags": [
+            "#DevCommunity",
+            "#CodingSquad",
+            "#SummerHacks2026"
+          ],
+          "callToAction": "Tag your team below!",
+          "visualConcept": "Collage of past hackathon team photos",
+          "scheduledDate": "2026-11-11"
+        },
+        {
+          "dayNumber": 4,
+          "platform": "LinkedIn",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Value-Driven Tip",
+          "caption": "Pro tip for aspiring developers: Focus on collaboration over perfection. At Summer Hacks 2026, you’ll learn to build faster with diverse perspectives. Join us!",
+          "hashtags": [
+            "#SoftwareEngineering",
+            "#CareerGrowth",
+            "#SummerHacks2026"
+          ],
+          "callToAction": "Register for the event.",
+          "visualConcept": "Minimalist text card with code snippet",
+          "scheduledDate": "2026-11-12"
+        },
+        {
+          "dayNumber": 5,
+          "platform": "Instagram",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Speaker Reveal",
+          "caption": "Meet our second guest speaker! 🎤 A visionary in AI who will guide you through the future of tech. Don’t miss this exclusive session.",
+          "hashtags": [
+            "#AI",
+            "#TechSpeakers",
+            "#SummerHacks2026"
+          ],
+          "callToAction": "Link in bio to register.",
+          "visualConcept": "Dynamic speaker portrait with motion blur",
+          "scheduledDate": "2026-11-13"
+        },
+        {
+          "dayNumber": 6,
+          "platform": "LinkedIn",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Networking Focus",
+          "caption": "Your next career opportunity could be one conversation away. Connect with industry leaders and fellow innovators at Summer Hacks 2026. Let’s grow together.",
+          "hashtags": [
+            "#Networking",
+            "#TechCommunity",
+            "#SummerHacks2026"
+          ],
+          "callToAction": "Join the conversation.",
+          "visualConcept": "Illustration of diverse developers collaborating",
+          "scheduledDate": "2026-11-14"
+        },
+        {
+          "dayNumber": 7,
+          "platform": "Instagram",
+          "contentPillar": "Milestone & Next Steps",
+          "topicIdea": "Day 7 Key Takeaways & Community Spotlight",
+          "caption": "Wrapping up Day 7 of our Build hype, announce guest speakers, and boost ticket registrations for Summer Hacks 2026 initiative! What was your biggest breakthrough so far? Join the discussion below.",
+          "hashtags": [
+            "#DevGrowth",
+            "#TechCommunity",
+            "#CareerSprint"
+          ],
+          "callToAction": "Drop your thoughts in the comments!",
+          "visualConcept": "Milestone achievement celebration card",
+          "scheduledDate": "2026-11-15"
+        }
+      ]
+    },
+    "validation": {
+      "timestamp": "2026-11-01T05:25:27.747Z",
+      "totalPosts": 7,
+      "requestedDuration": 7,
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-15",
+      "durationCheckPassed": true,
+      "totalChecks": 43,
+      "passedChecks": 43,
+      "warningChecks": 0,
+      "failedChecks": 0,
+      "qualityScore": 100,
+      "status": "PASSED_HIGH_QUALITY",
+      "summary": {
+        "passedPostsCount": 7,
+        "warningPostsCount": 0,
+        "failedPostsCount": 0
+      },
+      "postAudits": [
+        {
+          "dayNumber": 1,
+          "platform": "Instagram",
+          "characterCount": 134,
+          "characterLimit": 2200,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "134 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 3-15)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Register via link in bio!\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-09 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Vibrant neon hackathon countdown graphic\""
+            }
+          ],
+          "safeCaption": "Summer Hacks 2026 is officially live! 🚀 Join 500+ devs for 24h of building, networking, and winning. Your next big break starts here."
+        },
+        {
+          "dayNumber": 2,
+          "platform": "LinkedIn",
+          "characterCount": 151,
+          "characterLimit": 3000,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "151 / 3000 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Secure your spot now.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-10 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Professional headshot with event logo\""
+            }
+          ],
+          "safeCaption": "We are thrilled to announce our first guest speaker! A top-tier engineering leader who will share insights on scaling code. Who else is ready to learn?"
+        },
+        {
+          "dayNumber": 3,
+          "platform": "Instagram",
+          "characterCount": 149,
+          "characterLimit": 2200,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "149 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 3-15)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Tag your team below!\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-11 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Collage of past hackathon team photos\""
+            }
+          ],
+          "safeCaption": "From campus clubs to global teams, we are building together. 🌍 Tag your hackathon squad and show us your energy. Let’s make this year unforgettable!"
+        },
+        {
+          "dayNumber": 4,
+          "platform": "LinkedIn",
+          "characterCount": 159,
+          "characterLimit": 3000,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "159 / 3000 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Register for the event.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-12 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Minimalist text card with code snippet\""
+            }
+          ],
+          "safeCaption": "Pro tip for aspiring developers: Focus on collaboration over perfection. At Summer Hacks 2026, you’ll learn to build faster with diverse perspectives. Join us!"
+        },
+        {
+          "dayNumber": 5,
+          "platform": "Instagram",
+          "characterCount": 133,
+          "characterLimit": 2200,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "133 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 3-15)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Link in bio to register.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-13 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Dynamic speaker portrait with motion blur\""
+            }
+          ],
+          "safeCaption": "Meet our second guest speaker! 🎤 A visionary in AI who will guide you through the future of tech. Don’t miss this exclusive session."
+        },
+        {
+          "dayNumber": 6,
+          "platform": "LinkedIn",
+          "characterCount": 155,
+          "characterLimit": 3000,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "155 / 3000 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Join the conversation.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-14 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Illustration of diverse developers collaborating\""
+            }
+          ],
+          "safeCaption": "Your next career opportunity could be one conversation away. Connect with industry leaders and fellow innovators at Summer Hacks 2026. Let’s grow together."
+        },
+        {
+          "dayNumber": 7,
+          "platform": "Instagram",
+          "characterCount": 196,
+          "characterLimit": 2200,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "196 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 3-15)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Drop your thoughts in the comments!\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-15 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Milestone achievement celebration card\""
+            }
+          ],
+          "safeCaption": "Wrapping up Day 7 of our Build hype, announce guest speakers, and boost ticket registrations for Summer Hacks 2026 initiative! What was your biggest breakthrough so far? Join the discussion below."
+        }
+      ]
+    }
+  },
+  {
+    "campaignId": "CMP-MVXDTIB3",
+    "id": "CMP-MVXDTIB3",
+    "createdAt": "2026-11-01T05:21:00.290Z",
+    "updatedAt": "2026-11-01T05:21:00.290Z",
+    "campaignParams": {
+      "campaignGoal": "Announce and drive early beta signups for an AI-powered code snippet manager",
+      "targetAudience": "Computer Science students, junior developers, and tech enthusiasts",
+      "platforms": [
+        "Twitter/X",
+        "LinkedIn",
+        "Instagram"
+      ],
+      "durationDays": 7,
+      "postsPerDay": 1,
+      "tone": "Energetic, developer-focused, and educational",
+      "startDate": "2026-11-01"
+    },
+    "data": {
+      "campaignName": "CodeFlow Beta Launch",
+      "campaignStrategy": "Drive early beta signups for an AI-powered code snippet manager by targeting developers with educational and energetic content across key social platforms.",
+      "targetAudienceSummary": "Computer Science students, junior developers, and tech enthusiasts",
+      "posts": [
+        {
+          "dayNumber": 1,
+          "platform": "Twitter/X",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Launch Announcement",
+          "caption": "Stop losing code snippets! 🚀 Our AI manager organizes your code automatically. Early beta spots open now. #DevTools #AI",
+          "hashtags": [
+            "#DevTools",
+            "#AI"
+          ],
+          "callToAction": "Join the beta!",
+          "visualConcept": "App dashboard preview card",
+          "scheduledDate": "2026-11-01"
+        },
+        {
+          "dayNumber": 2,
+          "platform": "LinkedIn",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Problem/Solution Value",
+          "caption": "Efficiency is key for developers. Our AI snippet manager reduces search time by 40%. See how it works in our new beta. #SoftwareDev #Productivity",
+          "hashtags": [
+            "#SoftwareDev",
+            "#Productivity"
+          ],
+          "callToAction": "Request access below.",
+          "visualConcept": "Workflow comparison diagram",
+          "scheduledDate": "2026-11-02"
+        },
+        {
+          "dayNumber": 3,
+          "platform": "Instagram",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Visual Feature Demo",
+          "caption": "Watch your code organize itself. ✨ AI-powered snippet management is here. Save this for your next project. #CodingLife #TechTrends",
+          "hashtags": [
+            "#CodingLife",
+            "#TechTrends"
+          ],
+          "callToAction": "Link in bio.",
+          "visualConcept": "Screen recording of AI sorting",
+          "scheduledDate": "2026-11-03"
+        },
+        {
+          "dayNumber": 4,
+          "platform": "Twitter/X",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Educational Tip",
+          "caption": "Pro tip: Tag your snippets by language and project. Our AI does it for you. Try it in the beta. #CodeTips #DeveloperLife",
+          "hashtags": [
+            "#CodeTips",
+            "#DeveloperLife"
+          ],
+          "callToAction": "Sign up now.",
+          "visualConcept": "Snippet tagging interface",
+          "scheduledDate": "2026-11-04"
+        },
+        {
+          "dayNumber": 5,
+          "platform": "LinkedIn",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Community Building",
+          "caption": "Join 500+ developers testing our AI snippet manager. Share your workflow challenges and get early access. #TechCommunity #Innovation",
+          "hashtags": [
+            "#TechCommunity",
+            "#Innovation"
+          ],
+          "callToAction": "Apply for beta.",
+          "visualConcept": "User testimonial graphic",
+          "scheduledDate": "2026-11-05"
+        },
+        {
+          "dayNumber": 6,
+          "platform": "Instagram",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Behind the Scenes",
+          "caption": "How we build smarter code tools. 🛠️ Meet the team behind the AI. Follow for more dev insights. #StartupLife #AI",
+          "hashtags": [
+            "#StartupLife",
+            "#AI"
+          ],
+          "callToAction": "Follow for more.",
+          "visualConcept": "Team working on laptops",
+          "scheduledDate": "2026-11-06"
+        },
+        {
+          "dayNumber": 7,
+          "platform": "Twitter/X",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Urgency/Final Call",
+          "caption": "Beta spots are filling fast! 🏃‍♂️ Don't miss out on the future of code management. Last chance to join. #BetaTest #DevTools",
+          "hashtags": [
+            "#BetaTest",
+            "#DevTools"
+          ],
+          "callToAction": "Grab your spot.",
+          "visualConcept": "Countdown timer graphic",
+          "scheduledDate": "2026-11-07"
+        }
+      ]
+    },
+    "validation": {
+      "timestamp": "2026-11-01T05:21:00.289Z",
+      "totalPosts": 7,
+      "requestedDuration": 7,
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-07",
+      "durationCheckPassed": true,
+      "totalChecks": 43,
+      "passedChecks": 39,
+      "warningChecks": 4,
+      "failedChecks": 0,
+      "qualityScore": 95,
+      "status": "PASSED_HIGH_QUALITY",
+      "summary": {
+        "passedPostsCount": 3,
+        "warningPostsCount": 4,
+        "failedPostsCount": 0
+      },
+      "postAudits": [
+        {
+          "dayNumber": 1,
+          "platform": "Twitter/X",
+          "characterCount": 120,
+          "characterLimit": 280,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "120 / 280 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "2 tags (Target: 1-4)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Join the beta!\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-01 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"App dashboard preview card\""
+            }
+          ],
+          "safeCaption": "Stop losing code snippets! 🚀 Our AI manager organizes your code automatically. Early beta spots open now. #DevTools #AI"
+        },
+        {
+          "dayNumber": 2,
+          "platform": "LinkedIn",
+          "characterCount": 145,
+          "characterLimit": 3000,
+          "overallStatus": "WARNING",
+          "isCompliant": true,
+          "passedChecksCount": 5,
+          "warningChecksCount": 1,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "WARNING",
+              "passed": false,
+              "detail": "145 chars (Too brief for LinkedIn; recommend at least 150 chars)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "2 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Request access below.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-02 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Workflow comparison diagram\""
+            }
+          ],
+          "safeCaption": "Efficiency is key for developers. Our AI snippet manager reduces search time by 40%. See how it works in our new beta. #SoftwareDev #Productivity"
+        },
+        {
+          "dayNumber": 3,
+          "platform": "Instagram",
+          "characterCount": 130,
+          "characterLimit": 2200,
+          "overallStatus": "WARNING",
+          "isCompliant": true,
+          "passedChecksCount": 5,
+          "warningChecksCount": 1,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "130 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "WARNING",
+              "passed": false,
+              "detail": "2 tags is below the recommended minimum of 3."
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Link in bio.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-03 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Screen recording of AI sorting\""
+            }
+          ],
+          "safeCaption": "Watch your code organize itself. ✨ AI-powered snippet management is here. Save this for your next project. #CodingLife #TechTrends"
+        },
+        {
+          "dayNumber": 4,
+          "platform": "Twitter/X",
+          "characterCount": 120,
+          "characterLimit": 280,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "120 / 280 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "2 tags (Target: 1-4)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Sign up now.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-04 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Snippet tagging interface\""
+            }
+          ],
+          "safeCaption": "Pro tip: Tag your snippets by language and project. Our AI does it for you. Try it in the beta. #CodeTips #DeveloperLife"
+        },
+        {
+          "dayNumber": 5,
+          "platform": "LinkedIn",
+          "characterCount": 132,
+          "characterLimit": 3000,
+          "overallStatus": "WARNING",
+          "isCompliant": true,
+          "passedChecksCount": 5,
+          "warningChecksCount": 1,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "WARNING",
+              "passed": false,
+              "detail": "132 chars (Too brief for LinkedIn; recommend at least 150 chars)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "2 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Apply for beta.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-05 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"User testimonial graphic\""
+            }
+          ],
+          "safeCaption": "Join 500+ developers testing our AI snippet manager. Share your workflow challenges and get early access. #TechCommunity #Innovation"
+        },
+        {
+          "dayNumber": 6,
+          "platform": "Instagram",
+          "characterCount": 112,
+          "characterLimit": 2200,
+          "overallStatus": "WARNING",
+          "isCompliant": true,
+          "passedChecksCount": 5,
+          "warningChecksCount": 1,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "112 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "WARNING",
+              "passed": false,
+              "detail": "2 tags is below the recommended minimum of 3."
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Follow for more.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-06 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Team working on laptops\""
+            }
+          ],
+          "safeCaption": "How we build smarter code tools. 🛠️ Meet the team behind the AI. Follow for more dev insights. #StartupLife #AI"
+        },
+        {
+          "dayNumber": 7,
+          "platform": "Twitter/X",
+          "characterCount": 124,
+          "characterLimit": 280,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "124 / 280 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "2 tags (Target: 1-4)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Grab your spot.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-07 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Countdown timer graphic\""
+            }
+          ],
+          "safeCaption": "Beta spots are filling fast! 🏃‍♂️ Don't miss out on the future of code management. Last chance to join. #BetaTest #DevTools"
+        }
+      ]
+    }
+  },
+  {
+    "campaignId": "CMP-MVWPD39A",
+    "id": "CMP-MVWPD39A",
+    "createdAt": "2026-10-31T17:56:23.318Z",
+    "updatedAt": "2026-10-31T17:57:36.032Z",
+    "campaignParams": {
+      "campaignGoal": "Launch an automated AI code review bot for open source repositories",
+      "targetAudience": "Open source maintainers and software engineers",
+      "platforms": [
+        "Twitter/X",
+        "LinkedIn",
+        "Instagram"
+      ],
+      "durationDays": 7,
+      "postsPerDay": 1,
+      "tone": "Technical, authoritative, and community-driven",
+      "startDate": "2026-11-01"
+    },
+    "data": {
+      "campaignName": "AI Code Review Bot Launch",
+      "campaignStrategy": "Position the bot as an essential, community-driven tool that accelerates PR cycles and reduces maintainer burnout.",
+      "targetAudienceSummary": "Open source maintainers and software engineers",
+      "posts": [
+        {
+          "dayNumber": 1,
+          "platform": "Twitter/X",
+          "caption": "VERIFIED: AI Code Review Bot cuts pull request review times by 65%. Install now! #DevTools",
+          "hashtags": [
+            "#DevTools",
+            "#OpenSource"
+          ],
+          "callToAction": "Install on GitHub",
+          "scheduledDate": "2026-11-01"
+        }
+      ]
+    },
+    "validation": {
+      "timestamp": "2026-10-31T17:56:23.318Z",
+      "totalPosts": 7,
+      "requestedDuration": 7,
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-07",
+      "durationCheckPassed": true,
+      "totalChecks": 43,
+      "passedChecks": 41,
+      "warningChecks": 2,
+      "failedChecks": 0,
+      "qualityScore": 98,
+      "status": "PASSED_HIGH_QUALITY",
+      "summary": {
+        "passedPostsCount": 5,
+        "warningPostsCount": 2,
+        "failedPostsCount": 0
+      },
+      "postAudits": [
+        {
+          "dayNumber": 1,
+          "platform": "Twitter/X",
+          "characterCount": 130,
+          "characterLimit": 280,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "130 / 280 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "2 tags (Target: 1-4)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Try it now\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-01 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Bot interface screenshot\""
+            }
+          ],
+          "safeCaption": "Stop manual code review. Our AI bot checks every PR instantly. Open source, free, and built for speed. Try it now. #OpenSource #AI"
+        },
+        {
+          "dayNumber": 2,
+          "platform": "LinkedIn",
+          "characterCount": 166,
+          "characterLimit": 3000,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "166 / 3000 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "2 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Learn more\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-02 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Team collaboration photo\""
+            }
+          ],
+          "safeCaption": "Maintainer burnout is real. Our AI code review bot handles initial checks, letting you focus on architecture. Boost your repo's velocity today. #DevTools #Engineering"
+        },
+        {
+          "dayNumber": 3,
+          "platform": "Instagram",
+          "characterCount": 132,
+          "characterLimit": 2200,
+          "overallStatus": "WARNING",
+          "isCompliant": true,
+          "passedChecksCount": 5,
+          "warningChecksCount": 1,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "132 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "WARNING",
+              "passed": false,
+              "detail": "2 tags is below the recommended minimum of 3."
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Link in bio\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-03 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Code diff animation\""
+            }
+          ],
+          "safeCaption": "Instant feedback on every commit. Our AI bot catches bugs before they merge. Save your time, ship faster. Link in bio. #Coding #Tech"
+        },
+        {
+          "dayNumber": 4,
+          "platform": "Twitter/X",
+          "characterCount": 140,
+          "characterLimit": 280,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "140 / 280 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "2 tags (Target: 1-4)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Join us\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-04 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Community chat screenshot\""
+            }
+          ],
+          "safeCaption": "Built by devs, for devs. Join the community shaping the future of automated code review. Your feedback drives our roadmap. #DevCommunity #AI"
+        },
+        {
+          "dayNumber": 5,
+          "platform": "LinkedIn",
+          "characterCount": 167,
+          "characterLimit": 3000,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "167 / 3000 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "2 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Read docs\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-05 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Architecture diagram\""
+            }
+          ],
+          "safeCaption": "How does our AI review code? It analyzes patterns, detects vulnerabilities, and suggests optimizations. Technical documentation available now. #SoftwareEngineering #AI"
+        },
+        {
+          "dayNumber": 6,
+          "platform": "Instagram",
+          "characterCount": 137,
+          "characterLimit": 2200,
+          "overallStatus": "WARNING",
+          "isCompliant": true,
+          "passedChecksCount": 5,
+          "warningChecksCount": 1,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "137 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "WARNING",
+              "passed": false,
+              "detail": "2 tags is below the recommended minimum of 3."
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Link in bio\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-06 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Testimonial quote card\""
+            }
+          ],
+          "safeCaption": "\"This bot saved my weekend.\" Hear from maintainers who automated their review process. Join them today. Link in bio. #OpenSource #DevLife"
+        },
+        {
+          "dayNumber": 7,
+          "platform": "Twitter/X",
+          "characterCount": 132,
+          "characterLimit": 280,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "132 / 280 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "2 tags (Target: 1-4)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Install now\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-07 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Installation command snippet\""
+            }
+          ],
+          "safeCaption": "Ready to streamline your repo? Install our AI code review bot in under 5 minutes. Free for all open source projects. #OpenSource #AI"
+        }
+      ]
+    },
+    "posts": [
+      {
+        "dayNumber": 1,
+        "platform": "Twitter/X",
+        "caption": "VERIFIED: AI Code Review Bot cuts pull request review times by 65%. Install now! #DevTools",
+        "hashtags": [
+          "#DevTools",
+          "#OpenSource"
+        ],
+        "callToAction": "Install on GitHub",
+        "scheduledDate": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "campaignId": "CMP-MVWP1ZQA",
+    "id": "CMP-MVWP1ZQA",
+    "createdAt": "2026-10-31T17:47:49.076Z",
+    "updatedAt": "2026-10-31T17:47:49.076Z",
+    "campaignParams": {
+      "campaignGoal": "Promote a free 5-day DSA and System Design interview prep masterclass",
+      "targetAudience": "Pre-final and final year B.Tech engineering students aiming for FAANG/tech jobs",
+      "platforms": [
+        "LinkedIn",
+        "Twitter/X"
+      ],
+      "durationDays": 7,
+      "postsPerDay": 1,
+      "tone": "Actionable, motivating, and authoritative",
+      "startDate": "2026-11-01"
+    },
+    "data": {
+      "campaignName": "FAANG Ready Masterclass",
+      "campaignStrategy": "Leverage urgency and high-value technical insights to convert engineering students into masterclass registrants.",
+      "targetAudienceSummary": "Pre-final and final year B.Tech engineering students aiming for FAANG/tech jobs",
+      "posts": [
+        {
+          "dayNumber": 1,
+          "platform": "LinkedIn",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Launch Announcement",
+          "caption": "Stop guessing your interview strategy. We’re launching a free 5-day DSA & System Design masterclass for final-year B.Tech students. Master the exact frameworks FAANG interviewers use. Secure your spot before the cohort fills up.",
+          "hashtags": [
+            "#TechInterviews",
+            "#SystemDesign",
+            "#Engineering"
+          ],
+          "callToAction": "Register via link in bio!",
+          "visualConcept": "Masterclass launch banner",
+          "scheduledDate": "2026-11-01"
+        },
+        {
+          "dayNumber": 2,
+          "platform": "Twitter/X",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Pain Point Hook",
+          "caption": "Stop failing DSA interviews. 🚫\n\nMost students memorize code, not patterns.\n\nOur free 5-day masterclass teaches you the 10 core patterns FAANG loves.\n\nStop guessing. Start solving.\n\n#DSA #CodingInterviews #FAANG",
+          "hashtags": [
+            "#DSA",
+            "#CodingInterviews",
+            "#FAANG"
+          ],
+          "callToAction": "Link in bio to join.",
+          "visualConcept": "Code pattern infographic",
+          "scheduledDate": "2026-11-02"
+        },
+        {
+          "dayNumber": 3,
+          "platform": "LinkedIn",
+          "contentPillar": "Product Feature",
+          "topicIdea": "System Design Value",
+          "caption": "System Design isn't about drawing boxes. It's about articulating trade-offs.\n\nIn our free masterclass, we break down how to structure scalable solutions for high-traffic systems. Learn to think like a senior engineer, not just a coder.\n\nJoin the cohort today.",
+          "hashtags": [
+            "#SystemDesign",
+            "#SoftwareEngineering",
+            "#CareerGrowth"
+          ],
+          "callToAction": "Claim your free seat.",
+          "visualConcept": "Architecture diagram sketch",
+          "scheduledDate": "2026-11-03"
+        },
+        {
+          "dayNumber": 4,
+          "platform": "Twitter/X",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Urgency & Scarcity",
+          "caption": "FAANG interviews are brutal. 📉\n\nBut your prep doesn't have to be.\n\nJoin 500+ students in our free 5-day DSA & System Design masterclass.\n\nSeats are limited. Don't miss out.\n\n#TechJobs #InterviewPrep #Engineering",
+          "hashtags": [
+            "#TechJobs",
+            "#InterviewPrep",
+            "#Engineering"
+          ],
+          "callToAction": "Sign up now!",
+          "visualConcept": "Countdown timer graphic",
+          "scheduledDate": "2026-11-04"
+        },
+        {
+          "dayNumber": 5,
+          "platform": "LinkedIn",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Social Proof & Outcome",
+          "caption": "Why do some students crack FAANG while others don't? It’s not luck. It’s structured preparation.\n\nOur masterclass provides a step-by-step roadmap from problem identification to clean code execution. Stop winging it. Start winning.\n\nRegister for the free session.",
+          "hashtags": [
+            "#FAANG",
+            "#StudentLife",
+            "#TechCareers"
+          ],
+          "callToAction": "Register via link in bio.",
+          "visualConcept": "Student success quote card",
+          "scheduledDate": "2026-11-05"
+        },
+        {
+          "dayNumber": 6,
+          "platform": "Twitter/X",
+          "contentPillar": "Milestone & Next Steps",
+          "topicIdea": "Day 6 Key Takeaways & Community Spotlight",
+          "caption": "Wrapping up Day 6 of our Promote a free 5-day DSA and System Design interview prep masterclass initiative! What was your biggest breakthrough so far? Join the discussion below.",
+          "hashtags": [
+            "#DevGrowth",
+            "#TechCommunity",
+            "#CareerSprint"
+          ],
+          "callToAction": "Drop your thoughts in the comments!",
+          "visualConcept": "Milestone achievement celebration card",
+          "scheduledDate": "2026-11-06"
+        },
+        {
+          "dayNumber": 7,
+          "platform": "LinkedIn",
+          "contentPillar": "Milestone & Next Steps",
+          "topicIdea": "Day 7 Key Takeaways & Community Spotlight",
+          "caption": "Wrapping up Day 7 of our Promote a free 5-day DSA and System Design interview prep masterclass initiative! What was your biggest breakthrough so far? Join the discussion below.",
+          "hashtags": [
+            "#DevGrowth",
+            "#TechCommunity",
+            "#CareerSprint"
+          ],
+          "callToAction": "Drop your thoughts in the comments!",
+          "visualConcept": "Milestone achievement celebration card",
+          "scheduledDate": "2026-11-07"
+        }
+      ]
+    },
+    "validation": {
+      "timestamp": "2026-10-31T17:47:49.076Z",
+      "totalPosts": 7,
+      "requestedDuration": 7,
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-07",
+      "durationCheckPassed": true,
+      "totalChecks": 43,
+      "passedChecks": 43,
+      "warningChecks": 0,
+      "failedChecks": 0,
+      "qualityScore": 100,
+      "status": "PASSED_HIGH_QUALITY",
+      "summary": {
+        "passedPostsCount": 7,
+        "warningPostsCount": 0,
+        "failedPostsCount": 0
+      },
+      "postAudits": [
+        {
+          "dayNumber": 1,
+          "platform": "LinkedIn",
+          "characterCount": 228,
+          "characterLimit": 3000,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "228 / 3000 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Register via link in bio!\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-01 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Masterclass launch banner\""
+            }
+          ],
+          "safeCaption": "Stop guessing your interview strategy. We’re launching a free 5-day DSA & System Design masterclass for final-year B.Tech students. Master the exact frameworks FAANG interviewers use. Secure your spot before the cohort fills up."
+        },
+        {
+          "dayNumber": 2,
+          "platform": "Twitter/X",
+          "characterCount": 211,
+          "characterLimit": 280,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "211 / 280 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 1-4)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Link in bio to join.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-02 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Code pattern infographic\""
+            }
+          ],
+          "safeCaption": "Stop failing DSA interviews. 🚫\n\nMost students memorize code, not patterns.\n\nOur free 5-day masterclass teaches you the 10 core patterns FAANG loves.\n\nStop guessing. Start solving.\n\n#DSA #CodingInterviews #FAANG"
+        },
+        {
+          "dayNumber": 3,
+          "platform": "LinkedIn",
+          "characterCount": 259,
+          "characterLimit": 3000,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "259 / 3000 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Claim your free seat.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-03 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Architecture diagram sketch\""
+            }
+          ],
+          "safeCaption": "System Design isn't about drawing boxes. It's about articulating trade-offs.\n\nIn our free masterclass, we break down how to structure scalable solutions for high-traffic systems. Learn to think like a senior engineer, not just a coder.\n\nJoin the cohort today."
+        },
+        {
+          "dayNumber": 4,
+          "platform": "Twitter/X",
+          "characterCount": 212,
+          "characterLimit": 280,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "212 / 280 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 1-4)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Sign up now!\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-04 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Countdown timer graphic\""
+            }
+          ],
+          "safeCaption": "FAANG interviews are brutal. 📉\n\nBut your prep doesn't have to be.\n\nJoin 500+ students in our free 5-day DSA & System Design masterclass.\n\nSeats are limited. Don't miss out.\n\n#TechJobs #InterviewPrep #Engineering"
+        },
+        {
+          "dayNumber": 5,
+          "platform": "LinkedIn",
+          "characterCount": 262,
+          "characterLimit": 3000,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "262 / 3000 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Register via link in bio.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-05 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Student success quote card\""
+            }
+          ],
+          "safeCaption": "Why do some students crack FAANG while others don't? It’s not luck. It’s structured preparation.\n\nOur masterclass provides a step-by-step roadmap from problem identification to clean code execution. Stop winging it. Start winning.\n\nRegister for the free session."
+        },
+        {
+          "dayNumber": 6,
+          "platform": "Twitter/X",
+          "characterCount": 176,
+          "characterLimit": 280,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "176 / 280 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 1-4)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Drop your thoughts in the comments!\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-06 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Milestone achievement celebration card\""
+            }
+          ],
+          "safeCaption": "Wrapping up Day 6 of our Promote a free 5-day DSA and System Design interview prep masterclass initiative! What was your biggest breakthrough so far? Join the discussion below."
+        },
+        {
+          "dayNumber": 7,
+          "platform": "LinkedIn",
+          "characterCount": 176,
+          "characterLimit": 3000,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "176 / 3000 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Drop your thoughts in the comments!\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-07 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Milestone achievement celebration card\""
+            }
+          ],
+          "safeCaption": "Wrapping up Day 7 of our Promote a free 5-day DSA and System Design interview prep masterclass initiative! What was your biggest breakthrough so far? Join the discussion below."
+        }
+      ]
+    }
+  },
+  {
+    "campaignId": "CMP-MVWKX69X",
+    "id": "CMP-MVWKX69X",
+    "createdAt": "2026-10-31T15:52:02.278Z",
+    "updatedAt": "2026-10-31T15:52:02.278Z",
+    "campaignParams": {
+      "campaignGoal": "Build hype, announce guest speakers, and boost ticket registrations for HackFest 2026",
+      "targetAudience": "Engineering students, campus clubs, and aspiring developers",
+      "platforms": [
+        "Instagram",
+        "LinkedIn"
+      ],
+      "durationDays": 7,
+      "postsPerDay": 1,
+      "tone": "Vibrant, community-driven, and high-energy",
+      "startDate": "2026-11-01"
+    },
+    "data": {
+      "campaignName": "HackFest 2026: The Ultimate Build",
+      "campaignStrategy": "A high-energy 7-day rollout mixing visual hype, speaker spotlights, and community proof to drive immediate ticket registrations among engineering students.",
+      "targetAudienceSummary": "Engineering students, campus clubs, and aspiring developers",
+      "posts": [
+        {
+          "dayNumber": 1,
+          "platform": "Instagram",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Grand Reveal",
+          "caption": "The wait is over. HackFest 2026 is here. 24 hours. Infinite code. Join the movement. 🚀",
+          "hashtags": [
+            "#HackFest2026",
+            "#DevLife",
+            "#TechHype"
+          ],
+          "callToAction": "Register now!",
+          "visualConcept": "Bold neon event logo reveal",
+          "scheduledDate": "2026-11-01"
+        },
+        {
+          "dayNumber": 2,
+          "platform": "LinkedIn",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Speaker Spotlight 1",
+          "caption": "Meet the minds shaping the future. Our first guest speaker is ready to share insights on scalable architecture. Who else is ready to learn?",
+          "hashtags": [
+            "#TechLeadership",
+            "#SoftwareEngineering",
+            "#HackFest2026"
+          ],
+          "callToAction": "Secure your spot.",
+          "visualConcept": "Professional speaker headshot graphic",
+          "scheduledDate": "2026-11-02"
+        },
+        {
+          "dayNumber": 3,
+          "platform": "Instagram",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Community Hype",
+          "caption": "Last year’s winners are back. The energy is unmatched. Are you ready to build something legendary? 🔥",
+          "hashtags": [
+            "#CodingCommunity",
+            "#StudentLife",
+            "#Hackathon"
+          ],
+          "callToAction": "Link in bio.",
+          "visualConcept": "Crowd cheering at past event",
+          "scheduledDate": "2026-11-03"
+        },
+        {
+          "dayNumber": 4,
+          "platform": "LinkedIn",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Speaker Spotlight 2",
+          "caption": "Innovation starts with the right guidance. Our second speaker brings deep expertise in AI integration. Don’t miss this opportunity to connect.",
+          "hashtags": [
+            "#AI",
+            "#CareerGrowth",
+            "#TechEvents"
+          ],
+          "callToAction": "Register today.",
+          "visualConcept": "Speaker holding keynote mic",
+          "scheduledDate": "2026-11-04"
+        },
+        {
+          "dayNumber": 5,
+          "platform": "Instagram",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Prize Tease",
+          "caption": "Think you can win? The prizes are massive. Cash, internships, and exclusive swag. Prove your skills. 💰",
+          "hashtags": [
+            "#PrizeTime",
+            "#DevGoals",
+            "#HackFest2026"
+          ],
+          "callToAction": "Sign up now!",
+          "visualConcept": "Stack of prize items flat lay",
+          "scheduledDate": "2026-11-05"
+        },
+        {
+          "dayNumber": 6,
+          "platform": "LinkedIn",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Career Value",
+          "caption": "More than a hackathon. It’s a career accelerator. Network with top recruiters and showcase your portfolio to the industry. Level up.",
+          "hashtags": [
+            "#Networking",
+            "#JobSearch",
+            "#EngineeringStudents"
+          ],
+          "callToAction": "Get your ticket.",
+          "visualConcept": "Handshake with recruiter illustration",
+          "scheduledDate": "2026-11-06"
+        },
+        {
+          "dayNumber": 7,
+          "platform": "Instagram",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Final Call",
+          "caption": "Last chance to join the revolution. Tickets are selling fast. Don’t miss out on HackFest 2026. See you there! ⏳",
+          "hashtags": [
+            "#LastCall",
+            "#TechCommunity",
+            "#ActionNow"
+          ],
+          "callToAction": "Register immediately!",
+          "visualConcept": "Countdown timer with event logo",
+          "scheduledDate": "2026-11-07"
+        }
+      ]
+    },
+    "validation": {
+      "timestamp": "2026-10-31T15:52:02.278Z",
+      "totalPosts": 7,
+      "requestedDuration": 7,
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-07",
+      "durationCheckPassed": true,
+      "totalChecks": 43,
+      "passedChecks": 40,
+      "warningChecks": 3,
+      "failedChecks": 0,
+      "qualityScore": 97,
+      "status": "PASSED_HIGH_QUALITY",
+      "summary": {
+        "passedPostsCount": 4,
+        "warningPostsCount": 3,
+        "failedPostsCount": 0
+      },
+      "postAudits": [
+        {
+          "dayNumber": 1,
+          "platform": "Instagram",
+          "characterCount": 87,
+          "characterLimit": 2200,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "87 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 3-15)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Register now!\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-01 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Bold neon event logo reveal\""
+            }
+          ],
+          "safeCaption": "The wait is over. HackFest 2026 is here. 24 hours. Infinite code. Join the movement. 🚀"
+        },
+        {
+          "dayNumber": 2,
+          "platform": "LinkedIn",
+          "characterCount": 139,
+          "characterLimit": 3000,
+          "overallStatus": "WARNING",
+          "isCompliant": true,
+          "passedChecksCount": 5,
+          "warningChecksCount": 1,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "WARNING",
+              "passed": false,
+              "detail": "139 chars (Too brief for LinkedIn; recommend at least 150 chars)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Secure your spot.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-02 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Professional speaker headshot graphic\""
+            }
+          ],
+          "safeCaption": "Meet the minds shaping the future. Our first guest speaker is ready to share insights on scalable architecture. Who else is ready to learn?"
+        },
+        {
+          "dayNumber": 3,
+          "platform": "Instagram",
+          "characterCount": 101,
+          "characterLimit": 2200,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "101 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 3-15)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Link in bio.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-03 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Crowd cheering at past event\""
+            }
+          ],
+          "safeCaption": "Last year’s winners are back. The energy is unmatched. Are you ready to build something legendary? 🔥"
+        },
+        {
+          "dayNumber": 4,
+          "platform": "LinkedIn",
+          "characterCount": 142,
+          "characterLimit": 3000,
+          "overallStatus": "WARNING",
+          "isCompliant": true,
+          "passedChecksCount": 5,
+          "warningChecksCount": 1,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "WARNING",
+              "passed": false,
+              "detail": "142 chars (Too brief for LinkedIn; recommend at least 150 chars)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Register today.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-04 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Speaker holding keynote mic\""
+            }
+          ],
+          "safeCaption": "Innovation starts with the right guidance. Our second speaker brings deep expertise in AI integration. Don’t miss this opportunity to connect."
+        },
+        {
+          "dayNumber": 5,
+          "platform": "Instagram",
+          "characterCount": 103,
+          "characterLimit": 2200,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "103 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 3-15)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Sign up now!\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-05 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Stack of prize items flat lay\""
+            }
+          ],
+          "safeCaption": "Think you can win? The prizes are massive. Cash, internships, and exclusive swag. Prove your skills. 💰"
+        },
+        {
+          "dayNumber": 6,
+          "platform": "LinkedIn",
+          "characterCount": 132,
+          "characterLimit": 3000,
+          "overallStatus": "WARNING",
+          "isCompliant": true,
+          "passedChecksCount": 5,
+          "warningChecksCount": 1,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "WARNING",
+              "passed": false,
+              "detail": "132 chars (Too brief for LinkedIn; recommend at least 150 chars)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Get your ticket.\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-06 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Handshake with recruiter illustration\""
+            }
+          ],
+          "safeCaption": "More than a hackathon. It’s a career accelerator. Network with top recruiters and showcase your portfolio to the industry. Level up."
+        },
+        {
+          "dayNumber": 7,
+          "platform": "Instagram",
+          "characterCount": 111,
+          "characterLimit": 2200,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "111 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 3-15)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Register immediately!\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-07 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Countdown timer with event logo\""
+            }
+          ],
+          "safeCaption": "Last chance to join the revolution. Tickets are selling fast. Don’t miss out on HackFest 2026. See you there! ⏳"
+        }
+      ]
+    }
+  },
+  {
+    "campaignId": "CMP-MVWKPQWZ",
+    "id": "CMP-MVWKPQWZ",
+    "createdAt": "2026-10-31T15:46:15.645Z",
+    "updatedAt": "2026-10-31T15:46:15.645Z",
+    "campaignParams": {
+      "campaignGoal": "Announce and drive early beta signups for an AI-powered code snippet manager",
+      "targetAudience": "Computer Science students, junior developers, and tech enthusiasts",
+      "platforms": [
+        "Twitter/X",
+        "LinkedIn",
+        "Instagram"
+      ],
+      "durationDays": 7,
+      "postsPerDay": 1,
+      "tone": "Energetic, developer-focused, and educational",
+      "startDate": "2026-10-31"
+    },
+    "data": {
+      "campaignName": "CodeSnip AI Beta Launch",
+      "campaignStrategy": "Drive early beta signups for an AI code snippet manager by targeting junior developers with high-value, educational, and energetic content across key social platforms.",
+      "targetAudienceSummary": "Computer Science students, junior developers, and tech enthusiasts",
+      "posts": [
+        {
+          "dayNumber": 1,
+          "platform": "Twitter/X",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Launch Announcement",
+          "caption": "Stop copy-pasting. Start coding smarter. 🚀 Our AI snippet manager is live. Join the beta now!",
+          "hashtags": [
+            "#DevLife",
+            "#AI",
+            "#Coding"
+          ],
+          "callToAction": "Join beta now",
+          "visualConcept": "App dashboard preview card",
+          "scheduledDate": "2026-10-31"
+        },
+        {
+          "dayNumber": 2,
+          "platform": "LinkedIn",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Problem/Solution Value",
+          "caption": "Junior devs lose hours to snippet management. Our AI tool automates this, boosting your velocity. See how it works.",
+          "hashtags": [
+            "#SoftwareEngineering",
+            "#Productivity",
+            "#TechTrends"
+          ],
+          "callToAction": "Read more below",
+          "visualConcept": "Workflow comparison diagram",
+          "scheduledDate": "2026-11-01"
+        },
+        {
+          "dayNumber": 3,
+          "platform": "Instagram",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Visual Demo",
+          "caption": "Watch AI organize your messy code in seconds. ✨ Clean, fast, and smart. Link in bio to join the beta!",
+          "hashtags": [
+            "#CodeLife",
+            "#AITools",
+            "#DevCommunity"
+          ],
+          "callToAction": "Link in bio",
+          "visualConcept": "Screen recording of AI sorting",
+          "scheduledDate": "2026-11-02"
+        },
+        {
+          "dayNumber": 4,
+          "platform": "Twitter/X",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Educational Tip",
+          "caption": "Pro tip: Use semantic search, not just keywords. Our AI understands context. Try it in the beta today!",
+          "hashtags": [
+            "#DevTips",
+            "#AI",
+            "#Coding"
+          ],
+          "callToAction": "Try the beta",
+          "visualConcept": "Search bar UI mockup",
+          "scheduledDate": "2026-11-03"
+        },
+        {
+          "dayNumber": 5,
+          "platform": "LinkedIn",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Targeted Outreach",
+          "caption": "CS students & junior devs: streamline your workflow. Our AI snippet manager is built for your growth. Sign up free.",
+          "hashtags": [
+            "#ComputerScience",
+            "#CareerGrowth",
+            "#AI"
+          ],
+          "callToAction": "Sign up free",
+          "visualConcept": "Student developer testimonial",
+          "scheduledDate": "2026-11-04"
+        },
+        {
+          "dayNumber": 6,
+          "platform": "Instagram",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Community Engagement",
+          "caption": "What’s your most-used code snippet? Share below! 📝 We’re building tools for devs like you. Join the beta!",
+          "hashtags": [
+            "#DevCommunity",
+            "#Coding",
+            "#AI"
+          ],
+          "callToAction": "Comment below",
+          "visualConcept": "User-generated snippet collage",
+          "scheduledDate": "2026-11-05"
+        },
+        {
+          "dayNumber": 7,
+          "platform": "Twitter/X",
+          "contentPillar": "Product Feature",
+          "topicIdea": "Final Call",
+          "caption": "Last chance to join the AI snippet manager beta. Boost your coding speed today. Don’t miss out!",
+          "hashtags": [
+            "#BetaLaunch",
+            "#DevTools",
+            "#AI"
+          ],
+          "callToAction": "Join now",
+          "visualConcept": "Countdown timer graphic",
+          "scheduledDate": "2026-11-06"
+        }
+      ]
+    },
+    "validation": {
+      "timestamp": "2026-10-31T15:46:15.644Z",
+      "totalPosts": 7,
+      "requestedDuration": 7,
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-06",
+      "durationCheckPassed": true,
+      "totalChecks": 43,
+      "passedChecks": 41,
+      "warningChecks": 2,
+      "failedChecks": 0,
+      "qualityScore": 98,
+      "status": "PASSED_HIGH_QUALITY",
+      "summary": {
+        "passedPostsCount": 5,
+        "warningPostsCount": 2,
+        "failedPostsCount": 0
+      },
+      "postAudits": [
+        {
+          "dayNumber": 1,
+          "platform": "Twitter/X",
+          "characterCount": 94,
+          "characterLimit": 280,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "94 / 280 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 1-4)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Join beta now\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-10-31 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"App dashboard preview card\""
+            }
+          ],
+          "safeCaption": "Stop copy-pasting. Start coding smarter. 🚀 Our AI snippet manager is live. Join the beta now!"
+        },
+        {
+          "dayNumber": 2,
+          "platform": "LinkedIn",
+          "characterCount": 115,
+          "characterLimit": 3000,
+          "overallStatus": "WARNING",
+          "isCompliant": true,
+          "passedChecksCount": 5,
+          "warningChecksCount": 1,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "WARNING",
+              "passed": false,
+              "detail": "115 chars (Too brief for LinkedIn; recommend at least 150 chars)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Read more below\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-01 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Workflow comparison diagram\""
+            }
+          ],
+          "safeCaption": "Junior devs lose hours to snippet management. Our AI tool automates this, boosting your velocity. See how it works."
+        },
+        {
+          "dayNumber": 3,
+          "platform": "Instagram",
+          "characterCount": 101,
+          "characterLimit": 2200,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "101 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 3-15)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Link in bio\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-02 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Screen recording of AI sorting\""
+            }
+          ],
+          "safeCaption": "Watch AI organize your messy code in seconds. ✨ Clean, fast, and smart. Link in bio to join the beta!"
+        },
+        {
+          "dayNumber": 4,
+          "platform": "Twitter/X",
+          "characterCount": 102,
+          "characterLimit": 280,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "102 / 280 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 1-4)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Try the beta\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-03 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Search bar UI mockup\""
+            }
+          ],
+          "safeCaption": "Pro tip: Use semantic search, not just keywords. Our AI understands context. Try it in the beta today!"
+        },
+        {
+          "dayNumber": 5,
+          "platform": "LinkedIn",
+          "characterCount": 115,
+          "characterLimit": 3000,
+          "overallStatus": "WARNING",
+          "isCompliant": true,
+          "passedChecksCount": 5,
+          "warningChecksCount": 1,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "WARNING",
+              "passed": false,
+              "detail": "115 chars (Too brief for LinkedIn; recommend at least 150 chars)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Sign up free\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-04 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Student developer testimonial\""
+            }
+          ],
+          "safeCaption": "CS students & junior devs: streamline your workflow. Our AI snippet manager is built for your growth. Sign up free."
+        },
+        {
+          "dayNumber": 6,
+          "platform": "Instagram",
+          "characterCount": 106,
+          "characterLimit": 2200,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "106 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 3-15)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Comment below\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-05 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"User-generated snippet collage\""
+            }
+          ],
+          "safeCaption": "What’s your most-used code snippet? Share below! 📝 We’re building tools for devs like you. Join the beta!"
+        },
+        {
+          "dayNumber": 7,
+          "platform": "Twitter/X",
+          "characterCount": 95,
+          "characterLimit": 280,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "95 / 280 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 1-4)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Join now\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-06 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Countdown timer graphic\""
+            }
+          ],
+          "safeCaption": "Last chance to join the AI snippet manager beta. Boost your coding speed today. Don’t miss out!"
+        }
+      ]
+    }
+  },
+  {
+    "campaignId": "CMP-MVWHY5UF",
+    "id": "CMP-MVWHY5UF",
+    "createdAt": "2026-10-31T14:28:49.591Z",
+    "updatedAt": "2026-10-31T14:30:06.783Z",
+    "campaignParams": {
+      "campaignGoal": "Launching a new productivity app for university students to organize semester tasks",
+      "targetAudience": "Undergraduate engineering students, tech hobbyists, and early adopters",
+      "platforms": [
+        "Twitter/X",
+        "LinkedIn",
+        "Instagram"
+      ],
+      "durationDays": 7,
+      "postsPerDay": 1,
+      "tone": "Energetic, developer-focused, and educational",
+      "startDate": "2026-11-01"
+    },
+    "data": {
+      "campaignName": "Semester Sync Launch",
+      "campaignStrategy": "Launch the productivity app by positioning it as an essential engineering tool that automates complex semester task management.",
+      "targetAudienceSummary": "Undergraduate engineering students, tech hobbyists, and early adopters",
+      "posts": [
+        {
+          "dayNumber": 1,
+          "platform": "Twitter/X",
+          "caption": "Updated caption: Streamline your semester tasks with 1-click focus! #Productivity",
+          "hashtags": [
+            "#Productivity"
+          ],
+          "callToAction": "Try it now!",
+          "scheduledDate": "2026-11-01"
+        }
+      ]
+    },
+    "validation": {
+      "timestamp": "2026-10-31T14:28:49.591Z",
+      "totalPosts": 7,
+      "requestedDuration": 7,
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-07",
+      "durationCheckPassed": true,
+      "totalChecks": 43,
+      "passedChecks": 42,
+      "warningChecks": 1,
+      "failedChecks": 0,
+      "qualityScore": 99,
+      "status": "PASSED_HIGH_QUALITY",
+      "summary": {
+        "passedPostsCount": 6,
+        "warningPostsCount": 1,
+        "failedPostsCount": 0
+      },
+      "postAudits": [
+        {
+          "dayNumber": 1,
+          "platform": "Twitter/X",
+          "characterCount": 119,
+          "characterLimit": 280,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "119 / 280 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "2 tags (Target: 1-4)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Try it now!\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-01 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"App dashboard preview card\""
+            }
+          ],
+          "safeCaption": "Stop drowning in deadlines. Our new app syncs your entire semester in one click. Built for engineers who hate chaos. 🚀"
+        },
+        {
+          "dayNumber": 2,
+          "platform": "LinkedIn",
+          "characterCount": 153,
+          "characterLimit": 3000,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "153 / 3000 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Read more in bio\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-02 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Workflow comparison diagram\""
+            }
+          ],
+          "safeCaption": "Manual task tracking kills engineering focus. Automate your semester workflow with a tool designed for complex project dependencies and strict deadlines."
+        },
+        {
+          "dayNumber": 3,
+          "platform": "Instagram",
+          "characterCount": 117,
+          "characterLimit": 2200,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "117 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 3-15)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Link in bio\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-03 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Smart calendar UI close-up\""
+            }
+          ],
+          "safeCaption": "Your to-do list, but smarter. See exactly what’s due next week at a glance. No more mental load. Just pure focus. 📱✨"
+        },
+        {
+          "dayNumber": 4,
+          "platform": "Twitter/X",
+          "characterCount": 143,
+          "characterLimit": 280,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "143 / 280 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "2 tags (Target: 1-4)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Get early access\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-04 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Keyboard shortcut cheat sheet\""
+            }
+          ],
+          "safeCaption": "We built this for devs. API-first, keyboard shortcuts, and zero fluff. Organize your semester like you code your projects. Clean and efficient."
+        },
+        {
+          "dayNumber": 5,
+          "platform": "LinkedIn",
+          "characterCount": 149,
+          "characterLimit": 3000,
+          "overallStatus": "WARNING",
+          "isCompliant": true,
+          "passedChecksCount": 5,
+          "warningChecksCount": 1,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "WARNING",
+              "passed": false,
+              "detail": "149 chars (Too brief for LinkedIn; recommend at least 150 chars)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 2-6)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Download the guide\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-05 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Priority matrix infographic\""
+            }
+          ],
+          "safeCaption": "Efficiency isn't about doing more; it's about prioritizing correctly. Learn how our algorithm surfaces critical tasks before they become emergencies."
+        },
+        {
+          "dayNumber": 6,
+          "platform": "Instagram",
+          "characterCount": 130,
+          "characterLimit": 2200,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "130 / 2200 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "3 tags (Target: 3-15)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Save this post\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-06 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"User testimonial carousel\""
+            }
+          ],
+          "safeCaption": "Join 500+ engineering students who reclaimed their weekends. See how they organize their entire semester in minutes, not hours. 🎓"
+        },
+        {
+          "dayNumber": 7,
+          "platform": "Twitter/X",
+          "characterCount": 126,
+          "characterLimit": 280,
+          "overallStatus": "PASSED",
+          "isCompliant": true,
+          "passedChecksCount": 6,
+          "warningChecksCount": 0,
+          "failedChecksCount": 0,
+          "totalChecksCount": 6,
+          "checks": [
+            {
+              "name": "Required Fields Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "All required fields present (platform, idea, caption, date)"
+            },
+            {
+              "name": "Character Limit Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "126 / 280 chars (Compliant)"
+            },
+            {
+              "name": "Hashtag Density Check",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "2 tags (Target: 1-4)"
+            },
+            {
+              "name": "Call To Action (CTA)",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "CTA Defined: \"Sign up now\""
+            },
+            {
+              "name": "Publishing Date Integrity",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Scheduled for 2026-11-07 (Valid date)"
+            },
+            {
+              "name": "Visual Asset Concept",
+              "status": "PASSED",
+              "passed": true,
+              "detail": "Visual storyboard provided: \"Countdown timer graphic\""
+            }
+          ],
+          "safeCaption": "Last chance to join the beta. Secure your spot before the semester starts. Don't let your tasks run wild. Control the chaos. ⚡"
+        }
+      ]
+    },
+    "posts": [
+      {
+        "dayNumber": 1,
+        "platform": "Twitter/X",
+        "caption": "Updated caption: Streamline your semester tasks with 1-click focus! #Productivity",
+        "hashtags": [
+          "#Productivity"
+        ],
+        "callToAction": "Try it now!",
+        "scheduledDate": "2026-11-01"
+      }
+    ]
+  }
+]

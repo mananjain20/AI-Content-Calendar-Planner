@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Production builds
+dist/
+build/
+*/dist/
+
+# Environment variables & secrets
+.env
+.env.local
+.env.*.local
+*.env
+server/.env
+client/.env
+
+# Google Service Account keys
+credentials.json
+server/credentials.json
+service-account.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary backups
+backup_cleanup/
+backup/
+*/backup/
+
